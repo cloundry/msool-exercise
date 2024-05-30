@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.dccache
+.idea
+newrelic_agent.log
+/coverage/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/.nyc_output/
